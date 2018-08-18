@@ -1,10 +1,7 @@
-# Andrew Li Dong Portfolio
+# Portfolio
 
-A Github pages site to showcase my recent development projects.
+<a href="https://andrewlidong.github.io">See Live</a>
 
-Visit [andrewlidong.github.io](https://andrewlidong.github.io) to see it live.
+<img src="img/portfolio/portfolio.png" />
 
-<!-- The theme is [Big Picture](https://html5up.net/big-picture), created by
-[@ajlkn](https://twitter.com/ajlkn).  
-
-[View the theme README](README.txt). -->
+<a href='https://www.linkedin.com/in/andrew-dong/'>LinkedIn</a> - <a href='https://github.com/andrewlidong'>GitHub</a> - <a href='https://andrewlidong.github.io/'>Portfolio</a>

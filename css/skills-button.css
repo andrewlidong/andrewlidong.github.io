@@ -1,0 +1,26 @@
+.tech-skills {
+  background-color: #f2f7f8;
+  padding: 20px;
+}
+
+.fit {
+  margin-left: 10px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+.skills-icon {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  padding: 30px;
+  background-color: #fff;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-back {
+  background-color: #f2f7f8;
+  padding: 100px;
+}
