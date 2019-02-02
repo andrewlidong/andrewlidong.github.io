@@ -17,7 +17,7 @@ h6 {
 }
 
 h2 {
-	font-size: 48px;
+	font-size: 16px;
 }
 
 h3 {
@@ -67,7 +67,7 @@ ol {
 	margin-bottom: 110px;
 	padding-bottom: 2px;
 	line-height: normal;
-	color: #66ccff;
+	color: ##000d30;
 }
 
 .section-title h2:after {
@@ -77,7 +77,7 @@ ol {
 	height: 2px;
 	left: 0;
 	bottom: 0;
-	background: #66ccff;
+	background: ##000d30;
 }
 
 .set-bg {
@@ -360,13 +360,13 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #f2f7f8;
+	background: #f9f9f9;
 }
 
 .site-logo h2 {
 	font-size: 50px;
 	font-weight: 700;
-	color: #3366ff;
+	color: #000d30;
 }
 
 .site-logo h2 a {
@@ -394,9 +394,10 @@ ol {
 }
 
 .hero-text h2 {
-	font-size: 170px;
+	font-size: 28px;
 	line-height: normal;
-	margin-bottom: 20px;
+	margin-top: 50px;
+	margin-bottom: 150px;
 }
 
 .hero-text p {
