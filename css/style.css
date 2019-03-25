@@ -64,8 +64,8 @@ ol {
 .section-title h2 {
 	display: inline-block;
 	position: relative;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	padding-bottom: 2px;
 	line-height: normal;
 	color: ##000d30;
@@ -399,7 +399,7 @@ ol {
 	font-size: 28px;
 	line-height: normal;
 	margin-top: 20px;
-	margin-bottom: 80px;
+	margin-bottom: 20px;
 }
 
 .hero-text p {
@@ -499,7 +499,7 @@ ol {
 }
 
 .resume-list li {
-	margin-bottom: 120px;
+	margin-bottom: 40px;
 	position: relative;
 }
 
@@ -529,7 +529,7 @@ ol {
 	text-transform: uppercase;
 	color: #808181;
 	margin-top: 10px;
-	margin-bottom: 45px;
+	margin-bottom: 20px;
 }
 
 .resume-list p {
@@ -606,9 +606,9 @@ ol {
 }
 
 .port-btn:hover {
-	border: 2px solid #3399ff;
+	border: 2px solid #d1969b;
 	color: #fff;
-	background-color: #3399ff;
+	background-color: #d1969b;
 }
 
 #port-btn-align {
